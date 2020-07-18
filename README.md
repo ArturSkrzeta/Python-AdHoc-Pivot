@@ -2,9 +2,11 @@
 <h3>Intro</h3>
 <ul>
   <li>Script utilizes Pandas library to operate on the dataset.</li>
-  <li>Data input: csv files./li>
+  <li>Data input: csv files.</li>
   <li>Script groups the data by the company name (3 of them) and sums up the count of the lines occurance in the file.</li>
   <li>Script helps out either with ad-hoc queries or with monthly based KPI report.</li>
+  <li>Time of script's work lasts 3-4 sec. whereas preparing pivots manually with excel lasts about 5 min (depending on user)</li>
+  <li><Preparing </li>
 </ul>
 
 <h3>Demo</h3>
