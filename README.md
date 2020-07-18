@@ -7,5 +7,4 @@
 </ul>
 
 <h3>Demo</h3>
-<p>...</p>
 <img src="images/pivot.JPG">
