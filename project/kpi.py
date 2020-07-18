@@ -1,7 +1,7 @@
 # script counts items with status:
-# + created within the created.csv file
-# + closed within the closed.csv file
-# + on hold within the Weekly IT KPI.csv
+# - created within the created.csv file
+# - closed within the closed.csv file
+# - on hold within the Weekly IT KPI.csv
 # for 3 main companies
 
 import pandas as pd
