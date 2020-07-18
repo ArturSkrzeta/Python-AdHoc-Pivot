@@ -1,14 +1,16 @@
-# script counts items with status:
-# created within the created.csv file
-# closed within the closed.csv file
-# on hold within the Weekly IT KPI.csv
+# Script counts items with status:
+# + created within the created.csv file
+# + closed within the closed.csv file
+# + on hold within the Weekly IT KPI.csv
+# for 3 different clients: l_comapny, b_company and o_company.
+
 
 import pandas as pd
 
 def count_labels(df, status_name):
     unique_items = df['Labels'].unique()
 
-    if len(unique_items) == 3 and ('lht' in unique_items and 'bo' in unique_items and 'os' in unique_items):
+    if len(unique_items) == 3 and ('l_company' in unique_items and 'b_company' in unique_items and 'o_company' in unique_items):
 
         if status_name != 'on hold':
             print('- - - ' + status_name + ' - - -')
