@@ -1,5 +1,5 @@
 <h2>Python AdHoc Pivot Table</h2>
-<h3>Intro</h3>
+<h3>Main Script</h3>
 <ul>
   <li>Script utilizes Pandas library to operate on the datasets.</li>
   <li>Data input: csv files.</li>
@@ -9,6 +9,10 @@
   <li>The need of preparing these figures even couple of times a day saves a lot of time in terms of weeks or months.</li>
   <li>This is a good example of saving time with automated data processing.</li>
   <li>Implementing automation in data processing brings also data quality and eliminates risk of human's erros or oversights.</li>
+</ul>
+<h3>Pytest</h3>
+<ul>
+  <li>Script utilizes Pandas library to operate on the datasets.</li>
 </ul>
 
 <h3>Demo</h3>
