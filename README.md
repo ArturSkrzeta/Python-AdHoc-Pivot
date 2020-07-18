@@ -10,10 +10,9 @@
   <li>This is a good example of saving time with automated data processing.</li>
   <li>Implementing automation in data processing brings also data quality and eliminates risk of human's erros or oversights.</li>
 </ul>
+<img src="images/pivot.JPG">
 <h3>Pytest</h3>
 <ul>
   <li>Script utilizes Pandas library to operate on the datasets.</li>
 </ul>
-
-<h3>Demo</h3>
-<img src="images/pivot.JPG">
+<img src="images/test.JPG">
