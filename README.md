@@ -26,7 +26,6 @@
   </li>
   <li>Like shown above, automated test gives us immediate feedback that everything went properly and we can be sure the final analysis will be perfored successfully with reliable figures.</li>
   <li>With automated tests I can predict potential scenarios when things may go wrong. When it happens library pytest indicates which element gets failed.</li>
-  <li>Once again, due to the fact the test is automated we have additional time save as opposed to doing time-consuing manual checsks.</li>
+  <li>Once again, due to the fact the test is automated we have additional time save as opposed to doing time-consuing manual checks.</li>
 </ul>
 <img src="images/test.JPG">
-e
