@@ -30,5 +30,9 @@
 </ul>
 <h3>Test Successful</h3>
 <img src="images/test.JPG">
+<ul>
+  <li>Test performed 3 checks regarding: input files, count of columns and values for the analysis.</li>
+  <li>All 3 checks were performed successfully.</li>
+</ul>
 <h3>Test Failed</h3>
 <img src="images/test_failed.JPG">
