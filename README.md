@@ -11,7 +11,7 @@
   <li>Implementing automation in data processing brings also data quality and eliminates risk of human's erros or oversights.</li>
 </ul>
 <img src="images/pivot.JPG">
-<h3>Pytest</h3>
+<h2>Pytest</h2>
 <ul>
   <li>After an initial manual testing, I tend to write the autmoated test (trying to reach test-driven development standard).</li>
   <li>Automated test is the code that tries the main script's units of the code out - in a nutshell its a code for a code that already exists.</li>
@@ -29,7 +29,7 @@
   <li>Once again, due to the fact the test is automated we have additional time save as opposed to doing time-consuming manual checks.</li>
 </ul>
 <h3>Test Successful</h3>
-<img src="images/test.JPG">
+<img src="images/test.JPG" width="790" height="200">
 <ul>
   <li>Test performed 3 checks regarding: input files, count of columns and values for the analysis.</li>
   <li>All 3 checks were performed successfully.</li>
