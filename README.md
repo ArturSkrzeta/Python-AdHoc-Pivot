@@ -35,7 +35,7 @@
   <li>All 3 checks were performed successfully.</li>
 </ul>
 <h3>Test Failed</h3>
-<img src="images/test_failed.JPG">
+<img src="images/test_failed.JPG" width="750" height="500">
 <ul>
   <li>When some of the checks failes, pytest indicates place in the code where failure appears.</li>
   <li>In the example above Test caputres one unexpected value in the Labels column which serves to group data by companies.</li>
