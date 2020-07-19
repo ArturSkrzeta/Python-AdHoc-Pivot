@@ -24,7 +24,7 @@
       <li>If script's function returns expected object.</li>
     </ul>
   </li>
-  <li>Like shown above, automated test gives us immediate feedback that everything went properly and we can be sure the final analysis will be perfored successfully with no errors.</li>
+  <li>Like shown above, automated test gives us immediate feedback that everything went properly and we can be sure the final analysis will be perfored successfully with trustful figures.</li>
   <li>Once again, due to the fact the test is automated we have additional time save as opposed to doing time-consuing manual checsks.</li>
 </ul>
 <img src="images/test.JPG">
