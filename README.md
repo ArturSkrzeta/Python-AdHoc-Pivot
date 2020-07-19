@@ -28,4 +28,7 @@
   <li>With automated tests I can predict potential scenarios when things may go wrong. When it happens library pytest indicates which element gets failed.</li>
   <li>Once again, due to the fact the test is automated we have additional time save as opposed to doing time-consuing manual checks.</li>
 </ul>
+<h3>Test Successful</h3>
 <img src="images/test.JPG">
+<h3>Test Failed</h3>
+<img src="images/test_failed.JPG">
