@@ -14,7 +14,7 @@
 <h3>Pytest</h3>
 <ul>
   <li>After an initial manual testing, I tend to write the autmoated test (trying to reach test-driven development standard).</li>
-  <li>Automated test is the code that tries the main script's units of the code.</li>
+  <li>Automated test is the code that tries the main script's units of the code out - in a nutshell its a code for a code that already exists.</li>
   <li>In above example, the testing code checks:
     <ul>
       <li>If all of the input files are being stored in the main location (current directory for a script).</li>
